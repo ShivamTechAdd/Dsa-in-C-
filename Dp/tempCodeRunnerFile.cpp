@@ -1,0 +1,1 @@
+cout<<fD(x)<<endl;
